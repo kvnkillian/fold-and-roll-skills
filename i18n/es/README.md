@@ -18,6 +18,7 @@ Instálalas en Claude Code, Codex, Cursor o cualquier agente que lea el estánda
 | `one-shot-builder` | Una aventura autoconclusiva completa de 3 a 4 horas: gancho, tres actos, encuentros, PNJ y un desenlace que llega a buen puerto. |
 | `solo-adventure` | Una aventura en solitario para un jugador y un DM agente: decisiones, consecuencias y un final de verdad. |
 | `campaign-arc` | Un arco de campaña en tres actos y seis hitos, definidos por lo que cambia, no por lo que sucede. |
+| `dice-roller` | Tira cualquier dado — ventaja, desventaja, críticos, daño, tiradas en grupo — mostrando los dados, no solo el total. |
 
 ## Instalación
 
