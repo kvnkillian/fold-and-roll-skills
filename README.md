@@ -25,6 +25,7 @@ To install a translated set, copy that language's `skills/` folder instead of th
 | `one-shot-builder` | A complete 3–4 hour one-shot: hook, three acts, encounters, NPCs, and a payoff. |
 | `solo-adventure` | A solo adventure for one player and an agent DM — choices, consequences, and a real ending. |
 | `campaign-arc` | A campaign arc in three acts and six beats, defined by what changes — not by what happens. |
+| `dice-roller` | Roll any dice — advantage, disadvantage, crits, damage, group rolls — showing the dice, not just the total. |
 
 ## Install
 
