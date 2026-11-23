@@ -18,6 +18,7 @@ Installez-les dans Claude Code, Codex, Cursor ou tout agent qui lit le standard 
 | `one-shot-builder` | Un one-shot complet de 3 à 4 heures : crochet, trois actes, rencontres, PNJ et un dénouement. |
 | `solo-adventure` | Une aventure solo pour un joueur et un MJ agent — des choix, des conséquences et une vraie fin. |
 | `campaign-arc` | Un arc de campagne en trois actes et six temps forts, définis par ce qui change — et non par ce qui se passe. |
+| `dice-roller` | Lancez n'importe quel dé — avantage, désavantage, critiques, dégâts, jets de groupe — en montrant les dés, pas seulement le total. |
 
 ## Installation
 
