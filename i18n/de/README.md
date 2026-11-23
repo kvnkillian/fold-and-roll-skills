@@ -18,6 +18,7 @@ Installiere sie in Claude Code, Codex, Cursor oder jedem Agenten, der den offene
 | `one-shot-builder` | Ein komplettes One-Shot für 3–4 Stunden: Aufhänger, drei Akte, Begegnungen, NSCs und ein Payoff, der sitzt. |
 | `solo-adventure` | Ein Solo-Abenteuer für eine Spielerin oder einen Spieler und einen Agenten als Spielleiter – Entscheidungen, Konsequenzen und ein echtes Ende. |
 | `campaign-arc` | Ein Kampagnenbogen in drei Akten und sechs Beats, definiert durch das, was sich ändert – nicht durch das, was passiert. |
+| `dice-roller` | Würfelt beliebige Würfel – Vorteil, Nachteil, kritische Treffer, Schaden, Gruppenwürfe – und zeigt die Würfel, nicht nur die Summe. |
 
 ## Installation
 
